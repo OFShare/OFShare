@@ -1,13 +1,11 @@
 ### Hi guys, I'm OFShare 👋
 
----
-
 - My dreams are
 
   - to live a long and happy life.
   - to practice the art of human rationality.
   -  to reach mastery in computer programming and use my expertise to make people’s lives more fulfilling.
-- [This is my cat.jpg](./my_cat.jpg), thanks very much for my cat's(包子) company.
+- [This is my cat.jpg](./my_cat.jpg)
 - [This is me.jpg](./me.jpg)
 
 <!--
@@ -24,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-
